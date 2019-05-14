@@ -1,3 +1,3 @@
 # Go-Back-N
 
-Built a C version of reliable data transfer over UDP using go-back-N protocol.
+Used C to implement reliable data transfer over UDP using go-back-N protocol. 
